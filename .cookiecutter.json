@@ -1,0 +1,16 @@
+{
+  "_checkout": null,
+  "_output_dir": "/Users/fallioz/Documents/repos",
+  "_repo_dir": "/Users/fallioz/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "https://github.com/cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Luiz Sena",
+  "copyright_year": "2025",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "luizfelipe.lfsena@gmail.com",
+  "friendly_name": "Telegram Hq Builder",
+  "github_user": "fallioz",
+  "license": "MIT",
+  "package_name": "telegram_hq_builder",
+  "project_name": "telegram-hq-builder",
+  "version": "0.0.0"
+}
