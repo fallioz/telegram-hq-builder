@@ -1,4 +1,5 @@
 """Sphinx configuration."""
+
 project = "Telegram Hq Builder"
 author = "Luiz Sena"
 copyright = "2025, Luiz Sena"
